@@ -81,8 +81,6 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 # 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshatpy&theme=tokyonight&hide_border=true&show_icons=true" height="160px" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatpy&theme=tokyonight&hide_border=true" height="160px" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatpy&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
