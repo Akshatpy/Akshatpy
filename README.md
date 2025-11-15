@@ -1,14 +1,14 @@
-# 🌌 Hey, I'm Akshat — building cool things one bug at a time.
+# 🌌 Hey, I'm Akshat — 
 
-Exploring Full Stack , AI, embedded tech, and random sparks of curiosity.
+Exploring Full Stack , AI, embedded tech, and random sparks of curiosity.<br>
 When I'm not geeking out over tech, you’ll probably find me playing Chess, Table Tennis, or the guitar.
 
 ---
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akshat.131/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshat-sharma-a9ba89202/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akshatomega@gmail.com)
 
 ---
 
