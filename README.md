@@ -1,4 +1,5 @@
-# 🌌 Hey, I'm Akshat — 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=38B2AC&width=435&lines=Hey+I'm+Akshat;Developer+%7C+Student+%7C+Builder!)](https://git.io/typing-svg)
+
 
 Exploring Full Stack , AI, embedded tech, and random sparks of curiosity.<br>
 When I'm not geeking out over tech, you’ll probably find me playing Chess, Table Tennis, or the guitar.
@@ -6,7 +7,6 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 ---
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akshat.131/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshat-sharma-a9ba89202/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akshatomega@gmail.com)
 
@@ -48,6 +48,9 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![PLY](https://img.shields.io/badge/PLY-FFD43B?style=flat&logo=python&logoColor=black)
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat&logo=spigotmc&logoColor=white)
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
@@ -71,6 +74,8 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 
 ---
+
+![3D Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatpy&theme=tokyonight)
 
 
 # 📊 GitHub Stats
@@ -96,7 +101,3 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 
 <div align="center">
 
-### 👀 Visitor Count  
-![Visitor Count](https://visitcount.itsvg.in/api?id=Akshatpy&label=Profile%20Views&color=6&icon=5&pretty=true)
-
-</div>
