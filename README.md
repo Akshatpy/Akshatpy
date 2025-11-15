@@ -73,11 +73,11 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 # 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshatpy&theme=tokyonight&hide_border=true&show_icons=true" height="160px" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatpy&theme=tokyonight&hide_border=true" height="160px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatpy&layout=compact&theme=tokyonight&hide_border=true" height="150px" />
 
 </div>
 
@@ -86,7 +86,7 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 # 🏆 Achievements
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Akshatpy&theme=radical&margin-w=10&margin-h=10)
 
 </div>
 
@@ -94,6 +94,6 @@ When I'm not geeking out over tech, you’ll probably find me playing Chess, Tab
 <div align="center">
 
 ### 👀 Visitor Count  
-![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&label=Profile%20Views&color=6&icon=5&pretty=true)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Akshatpy&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 </div>
